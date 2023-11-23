@@ -7,6 +7,10 @@ layout: home
 
 I'm an engineer and startup guy interested in cloud infrastructure, databases, computer vision, and AI. Find me on [X](https://x.com/retttx) and [LinkedIn](https://www.linkedin.com/in/everettberry/).
 
+After spending several years building computer vision systems for Perceive, a company I co-founded in 2016 with funding from the National Science Foundation, I've transitioned into growth roles at Arctype and Vantage. My goal is to further develop my sales and marketing skills and eventually found another computer vision or AI company.
+
+I still prefer a more technical approach to growth that you might call growth engineering and have stayed focused on a technical audience through my writing and open source work.
+
 ## Work
 
 - [Vantage](https://vantage.sh)
@@ -28,7 +32,7 @@ I'm an engineer and startup guy interested in cloud infrastructure, databases, c
 
 ## Writing
 
-Idle thoughts on a variety of topics at [pid.vc](https://pid.vc).
+Idle thoughts on a variety of topics at [pid.vc](https://pid.vc). Selected blogs:
 
 - [Databricks vs Fabric](https://www.vantage.sh/blog/databricks-vs-microsoft-fabric-pricing-analysis)
 - [Cloud Costs Every Programmer Should Know](https://www.vantage.sh/blog/cloud-costs-every-programmer-should-know)
