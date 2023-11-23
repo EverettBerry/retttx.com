@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PID Capital
-domain: pid.vc
+title: Everett
+domain: retttx.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Investing in perception, intelligence, and data.
+  Everett personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pid.vc"
+url: "https://retttx.com"
 
 # Build settings
 theme: minima
