@@ -51,7 +51,7 @@ Idle thoughts on a variety of topics at [pid.vc](https://pid.vc). Selected blogs
 ### Podcasts
 
 - [GTM Engineer: Everett @ Clay](https://open.spotify.com/episode/7LcESEQFy8dUakWjTEzijf?si=veg_Jv6fREKIjTNVcua1qA) from the [GTM Council](https://gtmcouncil.substack.com/p/everett-berry-head-of-gtm-eng-clay) (May 2026)
-- [Inside our AI Sales Stack with Kyle Norton - Revenue Leadership Podcast](https://open.spotify.com/episode/0OaJdnTd1MNKaE3grCf8e1?si=c1775d272cda402d) (Mar 2026)
+- [Inside our AI Sales Stack with Kyle Norton](https://open.spotify.com/episode/0OaJdnTd1MNKaE3grCf8e1?si=c1775d272cda402d) (Mar 2026)
 - [Inside Clay's GTM Engine with Signalbase](https://youtu.be/lMlZIrDNnKs?si=9vtbNl9wx40fwA18) (Mar 2026)
 - [All about AI and GTM at Clay Round 2](https://open.spotify.com/episode/2feQqCaS0rUqCcUluHjVdf?si=865c78de58bd4265) (Oct 2025)
 - [The inside scoop on GTM Engineering](https://open.spotify.com/episode/5WNU5Ja5yk5TlLl1gscR2j?si=8eb98dcc38194306) (Sept 2025)
@@ -69,7 +69,7 @@ Idle thoughts on a variety of topics at [pid.vc](https://pid.vc). Selected blogs
 - [Building a Closed Won Lookalike Engine](https://www.clay.com/livestreams/building-a-closed-won-lookalike-engine-with-clay-lusha) (April 2026)
 - [Inside Clay's 2026 Sales Playbook: From PLG to Enterprise](https://www.youtube.com/watch?v=neno1gkhYjk&t=226s) (Feb 2026)
 - [What is GTM Engineering? Inside Clay's GTM Strategy](https://youtu.be/GqJpQZX8PvA?si=tMVi2KAlcPxgF5TA) (Jan 2026)
-- [GTM Engineering Masterclass | Signals, Automation & AI](https://www.youtube.com/watch?v=3du3zHcmpqQ) (Nov 2025)
+- [GTM Engineering Masterclass - Signals, Automation & AI](https://www.youtube.com/watch?v=3du3zHcmpqQ) (Nov 2025)
 - [A guide to GTM Engineering](https://youtu.be/JrOSuSLoZII?si=ha7RdTIo6YcqTN8X) with accompanying [blog post](https://www.worklife.vc/blog/the-rise-of-gtm-engineering---how-ai-is-creating-the-go-to-market-job-of-the-future) (Oct 2025)
 - [How to price AI](https://www.scalevp.com/resources/how-to-price-ai-with-clays-everett-berry) (June 2025)
 - [Targeting Redefined: Proven Tactics for Demand Gen Success with Clay](https://www.youtube.com/watch?v=ROzciKTQsrQ) (Dec 2024)
