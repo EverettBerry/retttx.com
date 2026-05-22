@@ -36,6 +36,7 @@ I still prefer a more technical approach to growth that you might call growth en
 
 Idle thoughts on a variety of topics at [pid.vc](https://pid.vc). Selected blogs:
 
+- [Sales GTM Engineering: How Clay Built the Role from Scratch](https://www.clay.com/blog/sales-gtm-engineering)
 - [The blueprint for AI GTM adoption: A three-level framework from Clay and HG](https://hgcapital.com/insights/the-blueprint-for-ai-gtm-adoption-a-three-level-framework-from-clay-and-hg)
 - [How We Built Clay's GTM Engineering Function](https://www.clay.com/blog/how-we-built-gtm-engineering-function)
 - [Databricks vs Fabric](https://www.vantage.sh/blog/databricks-vs-microsoft-fabric-pricing-analysis)
@@ -72,6 +73,8 @@ Idle thoughts on a variety of topics at [pid.vc](https://pid.vc). Selected blogs
 - [GTM Engineering Masterclass - Signals, Automation & AI](https://www.youtube.com/watch?v=3du3zHcmpqQ) (Nov 2025)
 - [A guide to GTM Engineering](https://youtu.be/JrOSuSLoZII?si=ha7RdTIo6YcqTN8X) with accompanying [blog post](https://www.worklife.vc/blog/the-rise-of-gtm-engineering---how-ai-is-creating-the-go-to-market-job-of-the-future) (Oct 2025)
 - [How to price AI](https://www.scalevp.com/resources/how-to-price-ai-with-clays-everett-berry) (June 2025)
+- [Harnessing Intent Data: Strategies for Seamless Integration](https://www.thedemandxchange.com/harnessing-intent-data/) (June 2025)
+- [Supercharging your ABM Flows with Hubspot and Clay](https://www.clay.com/livestreams/supercharging-your-abm-flows-with-hubspot-and-clay) (Feb 2025)
 - [Targeting Redefined: Proven Tactics for Demand Gen Success with Clay](https://www.youtube.com/watch?v=ROzciKTQsrQ) (Dec 2024)
 - [Zero to $1M: AI in GTM Panel](https://www.youtube.com/watch?v=myFHWVgsw2A&t=421s) (Nov 2024)
 - [The State of Encryption in Postgres](https://www.youtube.com/watch?v=lFM6PifnDiQ) (April 2022)
