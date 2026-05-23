@@ -9,7 +9,7 @@ I'm an engineer and startup guy interested in growth, cloud infrastructure, data
 
 After spending several years building computer vision systems for Perceive, a company I co-founded in 2016 with funding from the National Science Foundation, I transitioned into growth roles at Arctype and Vantage. Currently I am helping pioneer the practice of GTM Engineering at Clay. My goal is to further develop my sales and marketing skills and eventually found another computer vision or AI company.
 
-I still prefer a more technical approach to growth that you might call growth engineering and have stayed focused on a technical audience through my writing and open source work.
+I still prefer a more technical approach to growth that has evolved into GTM Engineering and have stayed focused on a technical audience through my writing and open source work.
 
 ## Work
 
@@ -30,11 +30,9 @@ I still prefer a more technical approach to growth that you might call growth en
 
 ## Projects
 
-- Maintainer of [ec2instances.info](https://ec2instances.info)
+- Former maintainer of [ec2instances.info](https://ec2instances.info)
 
 ## Writing
-
-Idle thoughts on a variety of topics at [pid.vc](https://pid.vc). Selected blogs:
 
 - [Sales GTM Engineering: How Clay Built the Role from Scratch](https://www.clay.com/blog/sales-gtm-engineering)
 - [The blueprint for AI GTM adoption: A three-level framework from Clay and HG](https://hgcapital.com/insights/the-blueprint-for-ai-gtm-adoption-a-three-level-framework-from-clay-and-hg)
@@ -85,3 +83,7 @@ Idle thoughts on a variety of topics at [pid.vc](https://pid.vc). Selected blogs
 ### News
 
 - [Perceive Hardware Lab](https://www.ibj.com/articles/72281-fishers-iot-lab-nearly-maxed-out-in-less-than-a-year)
+
+## Investing
+
+Angel investments and idle thoughts on a variety of topics at [pid.vc](https://pid.vc).
