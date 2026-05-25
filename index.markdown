@@ -87,3 +87,8 @@ I still prefer a more technical approach to growth that has evolved into GTM Eng
 ## Investing
 
 Angel investments and idle thoughts on a variety of topics at [pid.vc](https://pid.vc).
+
+## Contact
+
+Reach out on [X](https://x.com/retttx), [LinkedIn](https://www.linkedin.com/in/everettberry/) or by email at me@everettberry.com.
+
