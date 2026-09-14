@@ -7,7 +7,7 @@ layout: home
 
 I'm an engineer and startup guy interested in growth, cloud infrastructure, databases, computer vision, and AI. Find me on [X](https://x.com/retttx) and [LinkedIn](https://www.linkedin.com/in/everettberry/).
 
-After spending several years building computer vision systems for Perceive, a company I co-founded in 2016 with funding from the National Science Foundation, I transitioned into growth roles at Arctype and Vantage. I am helped pioneer the practice of GTM Engineering at Clay. I'm now working on agentic sales.
+After spending several years building computer vision systems for Perceive, a company I co-founded in 2016 with funding from the National Science Foundation, I transitioned into growth roles at Arctype and Vantage. I helped pioneer the practice of GTM Engineering at Clay and am now working on agentic sales.
 
 I still prefer a more technical approach to growth that has evolved into GTM Engineering and have stayed focused on a technical audience through my writing and open source work.
 
