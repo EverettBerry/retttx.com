@@ -7,7 +7,7 @@ layout: home
 
 I'm an engineer and startup guy interested in growth, cloud infrastructure, databases, computer vision, and AI. Find me on [X](https://x.com/retttx) and [LinkedIn](https://www.linkedin.com/in/everettberry/).
 
-After spending several years building computer vision systems for Perceive, a company I co-founded in 2016 with funding from the National Science Foundation, I transitioned into growth roles at Arctype and Vantage. Currently I am helping pioneer the practice of GTM Engineering at Clay. My goal is to further develop my sales and marketing skills and eventually found another computer vision or AI company.
+After spending several years building computer vision systems for Perceive, a company I co-founded in 2016 with funding from the National Science Foundation, I transitioned into growth roles at Arctype and Vantage. I am helped pioneer the practice of GTM Engineering at Clay. I'm now working on agentic sales.
 
 I still prefer a more technical approach to growth that has evolved into GTM Engineering and have stayed focused on a technical audience through my writing and open source work.
 
@@ -49,6 +49,8 @@ I still prefer a more technical approach to growth that has evolved into GTM Eng
 
 ### Podcasts
 
+- [How GTM Engineers are Rebuilding Sales](https://youtu.be/iS3VMNeH2Tk?is=j06DdewhYevg_mz-) (Aug 2026)
+- [How Clay gets 10X from Events with Everett Berry](https://youtu.be/5x3b1goiKuw?is=Z3g_hilGt1Yj1XUv) (Aug 2026)
 - [GTM Engineer: Everett @ Clay](https://open.spotify.com/episode/7LcESEQFy8dUakWjTEzijf?si=veg_Jv6fREKIjTNVcua1qA) from the [GTM Council](https://gtmcouncil.substack.com/p/everett-berry-head-of-gtm-eng-clay) (May 2026)
 - [Inside our AI Sales Stack with Kyle Norton](https://open.spotify.com/episode/0OaJdnTd1MNKaE3grCf8e1?si=c1775d272cda402d) (Mar 2026)
 - [Inside Clay's GTM Engine with Signalbase](https://youtu.be/lMlZIrDNnKs?si=9vtbNl9wx40fwA18) (Mar 2026)
@@ -64,6 +66,9 @@ I still prefer a more technical approach to growth that has evolved into GTM Eng
 
 ### Talks and Interviews
 
+- [GTM: The Next 18 Months](https://www.youtube.com/watch?v=Pk6yCYR-pLc) (Aug 2026)
+- [How Clay Functions and MCP Power Enterprise GTM Workflows](https://www.clay.com/livestreams/how-clay-functions-mcp-power-enterprise-gtm-workflows) (Aug 2026)
+- [GTM Engineering: The Technical Bits](https://www.youtube.com/watch?v=UhCY231d0FQ) (July 2026)
 - [How One of NYC's Fastest-Growing Startups Scaled to $5 Billion](https://www.youtube.com/watch?v=wNnU2BJILPA&t=1s) (May 2026)
 - [Building a Closed Won Lookalike Engine](https://www.clay.com/livestreams/building-a-closed-won-lookalike-engine-with-clay-lusha) (April 2026)
 - [Inside Clay's 2026 Sales Playbook: From PLG to Enterprise](https://www.youtube.com/watch?v=neno1gkhYjk&t=226s) (Feb 2026)
