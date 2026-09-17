@@ -34,7 +34,6 @@ I still prefer a more technical approach to growth that has evolved into GTM Eng
 
 ## Writing
 
-- [Sales GTM Engineering: How Clay Built the Role from Scratch](https://www.clay.com/blog/sales-gtm-engineering)
 - [The blueprint for AI GTM adoption: A three-level framework from Clay and HG](https://hgcapital.com/insights/the-blueprint-for-ai-gtm-adoption-a-three-level-framework-from-clay-and-hg)
 - [How We Built Clay's GTM Engineering Function](https://www.clay.com/blog/how-we-built-gtm-engineering-function)
 - [Databricks vs Fabric](https://www.vantage.sh/blog/databricks-vs-microsoft-fabric-pricing-analysis)
