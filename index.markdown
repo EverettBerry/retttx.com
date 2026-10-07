@@ -7,12 +7,14 @@ layout: home
 
 I'm an engineer and startup guy interested in growth, cloud infrastructure, databases, computer vision, and AI. Find me on [X](https://x.com/retttx) and [LinkedIn](https://www.linkedin.com/in/everettberry/).
 
-After spending several years building computer vision systems for Perceive, a company I co-founded in 2016 with funding from the National Science Foundation, I transitioned into growth roles at Arctype and Vantage. I helped pioneer the practice of GTM Engineering at Clay and am now working on agentic sales.
+After spending several years building computer vision systems for Perceive, a company I co-founded in 2016 with funding from the National Science Foundation, I transitioned into growth roles at Arctype and Vantage. I helped pioneer the practice of GTM Engineering at Clay and am now working on some
+new ideas.
 
 I still prefer a more technical approach to growth that has evolved into GTM Engineering and have stayed focused on a technical audience through my writing and open source work.
 
 ## Work
 
+- [Anthropic](https://anthropic.com)
 - [Clay](https://clay.com)
 - [Vantage](https://vantage.sh)
 - [Arctype](https://www.linkedin.com/company/get-arctype/) (Acquired by ClickHouse)
@@ -20,6 +22,7 @@ I still prefer a more technical approach to growth that has evolved into GTM Eng
 
 ### Work History
 
+- [Leaving Clay](https://www.linkedin.com/posts/everettberry_last-week-was-my-last-week-at-clay-i-am-activity-7506535981144219648-MLAg)
 - [Head of GTM Engineering at Clay](https://www.linkedin.com/posts/everettberry_ive-joined-clay-to-lead-go-to-market-engineering-activity-7191094677721219076-f6qv)
 - [Head of Growth at Vantage](https://www.linkedin.com/feed/update/urn:li:activity:7110615407547273216/)
 - [Marketing at Vantage](https://twitter.com/retttx/status/1518968046685081605)
