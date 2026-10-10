@@ -27,7 +27,7 @@ I still prefer a more technical approach to growth that has evolved into GTM Eng
 - [Marketing at Vantage](https://twitter.com/retttx/status/1518968046685081605)
 - [Joining Arctype](https://www.linkedin.com/posts/everettberry_arctype-sql-client-free-sql-editor-for-activity-6846503627809533952-3E-4)
 - [Open Sourcing Perceive](https://twitter.com/retttx/status/1401581585854435331)
-- [Becoming a Pioneer](https://pioneer.app/blog/meet-the-pioneers-take-4/)
+- [Becoming a Pioneer](https://pioneer.app/)
 - [Perceive funding announcement](https://www.purdue.edu/newsroom/releases/2016/Q4/purdue-graduates-developing-user-friendly,-cost-effective-retail-analytics-software.html)
 
 ## Projects
