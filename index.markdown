@@ -32,7 +32,8 @@ I still prefer a more technical approach to growth that has evolved into GTM Eng
 
 ## Projects
 
-- Former maintainer of [ec2instances.info](https://ec2instances.info)
+- [ec2instances.info](https://ec2instances.info) ([GitHub](https://github.com/vantage-sh/ec2instances.info)): AWS instance comparison site. Former maintainer.
+- [multiview](https://github.com/prcvlabs/multiview): multi-camera people tracking library. Written by [Aaron Michaux](https://github.com/aaron-michaux) at Perceive; I maintain the open source release.
 
 ## Writing
 
