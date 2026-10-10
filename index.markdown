@@ -47,15 +47,6 @@ I still prefer a more technical approach to growth that has evolved into GTM Eng
 - [Programmatic Messaging with Customer.io](https://medium.com/@epberry/programmatic-messaging-with-customer-io-7df42927ec10)
 - [Hooks: The Secret Feature Powering the Postgres Ecosystem](https://medium.com/cto-dive/hooks-the-secret-feature-powering-the-postgres-ecosystem-f05b3b82e0ba)
 
-## Publications
-
-Research on the CAM<sup>2</sup> global network camera project at Purdue with [Prof. Yung-Hsiang Lu](https://yhlu.net/), which became the precursor to Perceive.
-
-- [Multimedia Content Creation Using Global Network Cameras: The Making of CAM2](https://doi.org/10.1109/GlobalSIP.2015.7416927), IEEE GlobalSIP (Dec 2015)
-- [Using Global Camera Networks to Create Multimedia Content](https://doi.org/10.1109/CCBD.2015.21), International Conference on Cloud Computing and Big Data (Nov 2015)
-- [An Interactive Web-Based System Using Cloud for Large-Scale Visual Analytics](https://doi.org/10.1117/12.2080371), Proc. SPIE 9408 (Mar 2015)
-- [A System for Large-Scale Analysis of Distributed Cameras](https://doi.org/10.1109/GlobalSIP.2014.7032135), IEEE GlobalSIP (Dec 2014)
-
 ## Media
 
 ### Podcasts
@@ -103,6 +94,15 @@ Research on the CAM<sup>2</sup> global network camera project at Purdue with [Pr
 ## Investing
 
 Angel investments and idle thoughts on a variety of topics at [pid.vc](https://pid.vc).
+
+## Publications
+
+Research on the CAM<sup>2</sup> global network camera project at Purdue with [Prof. Yung-Hsiang Lu](https://yhlu.net/), which became the precursor to Perceive.
+
+- [Multimedia Content Creation Using Global Network Cameras: The Making of CAM2](https://doi.org/10.1109/GlobalSIP.2015.7416927), IEEE GlobalSIP (Dec 2015)
+- [Using Global Camera Networks to Create Multimedia Content](https://doi.org/10.1109/CCBD.2015.21), International Conference on Cloud Computing and Big Data (Nov 2015)
+- [An Interactive Web-Based System Using Cloud for Large-Scale Visual Analytics](https://doi.org/10.1117/12.2080371), Proc. SPIE 9408 (Mar 2015)
+- [A System for Large-Scale Analysis of Distributed Cameras](https://doi.org/10.1109/GlobalSIP.2014.7032135), IEEE GlobalSIP (Dec 2014)
 
 ## Contact
 
