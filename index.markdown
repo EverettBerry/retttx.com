@@ -68,6 +68,7 @@ I still prefer a more technical approach to growth that has evolved into GTM Eng
 
 ### Talks and Interviews
 
+- [AI and the New Shape of Go-to-Market](https://www.n2growth.com/interviews/clays-everett-berry-on-ai-and-new-shape-of-go-to-market/) (Oct 2026)
 - [GTM: The Next 18 Months](https://www.youtube.com/watch?v=Pk6yCYR-pLc) (Aug 2026)
 - [How Clay Functions and MCP Power Enterprise GTM Workflows](https://www.clay.com/livestreams/how-clay-functions-mcp-power-enterprise-gtm-workflows) (Aug 2026)
 - [GTM Engineering: The Technical Bits](https://www.youtube.com/watch?v=UhCY231d0FQ) (July 2026)
